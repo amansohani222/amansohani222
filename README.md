@@ -10,7 +10,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=amansohani222&count_private=true&theme=chartreuse-dark&show_icons=true">
 
-<img scr="https://github-readme-stats.vercel.app/api/top-langs/?username=amansohani222">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansohani222">
 
 
 
