@@ -20,10 +20,10 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=amansohani222&count_private=true&theme=chartreuse-dark&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=amansohani222&count_private=true&theme=synthwave&show_icons=true">
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansohani222&langs_count=7">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansohani222&langs_count=7&theme=synthwave">
 
 
 
