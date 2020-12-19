@@ -8,5 +8,7 @@
 - ⚡ Fun fact: There are more possible iterations of a chess game than number of atoms in universe.
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=amansohani222&count_private=true&theme=gruvbox&show_icons=true">
+
+
 
