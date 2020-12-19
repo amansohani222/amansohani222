@@ -9,11 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sarthak8898" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sarthak8898" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sarthaksri98/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sarthaksri98/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/sarthak.srivastav.77/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/sarthak.srivastav.77/" height="30" width="40" /></a>
-<a href="https://medium.com/@sarthaksrivastav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sarthaksrivastav" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sarthak98/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/sarthak98/" height="30" width="40" /></a>
+<a href="https://twitter.com/aman_sohani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aman_sohani" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aman-sohani-310478148/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/aman-sohani-310478148/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/amansohani222" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/amansohani222" height="30" width="40" /></a>
+<a href="https://leetcode.com/amansohani222/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/amansohani222/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
